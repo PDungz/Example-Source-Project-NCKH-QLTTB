@@ -1,0 +1,56 @@
+D:\Project_QLTTB\QLTTB_TDH\bin\Debug\QLTTB_TDH.exe.config
+D:\Project_QLTTB\QLTTB_TDH\bin\Debug\QLTTB_TDH.exe
+D:\Project_QLTTB\QLTTB_TDH\bin\Debug\QLTTB_TDH.pdb
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.AssemblyReference.cache
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.SuggestedBindingRedirects.cache
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.fTableManage.resources
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.Properties.Resources.resources
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.GenerateResource.cache
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.CoreCompileInputs.cache
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.exe
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.pdb
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.fAccountProfile.resources
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.fInformationAccount.resources
+D:\Project_QLTTB\QLTTB_TDH\obj\Debug\QLTTB_TDH.fLogin.resources
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.exe.config
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.exe
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.pdb
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.AssemblyReference.cache
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.SuggestedBindingRedirects.cache
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fAccountProfile.resources
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fInformationAccount.resources
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fLogin.resources
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fTableManage.resources
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.Properties.Resources.resources
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.GenerateResource.cache
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.CoreCompileInputs.cache
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.exe
+D:\Project\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.pdb
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.exe.config
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.exe
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.pdb
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.AssemblyReference.cache
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.SuggestedBindingRedirects.cache
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fAccountProfile.resources
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fInformationAccount.resources
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fLogin.resources
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fTableManage.resources
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.Properties.Resources.resources
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.GenerateResource.cache
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.CoreCompileInputs.cache
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.exe
+D:\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.pdb
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.exe.config
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.exe
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\bin\Debug\QLTTB_TDH.pdb
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.AssemblyReference.cache
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.SuggestedBindingRedirects.cache
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fAccountProfile.resources
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fInformationAccount.resources
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fLogin.resources
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.fTableManage.resources
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.Properties.Resources.resources
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.GenerateResource.cache
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.csproj.CoreCompileInputs.cache
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.exe
+D:\Learn Phung Van Dung\2.Dự án của tôi\Project_NCKH_QLTTB\NCKH_QLTTB_TDH\obj\Debug\QLTTB_TDH.pdb
